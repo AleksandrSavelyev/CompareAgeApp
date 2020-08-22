@@ -6,9 +6,7 @@ namespace ProgNaSravVozrasta
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Здравствуйте!!! Вас приветствует программа сравнения возраста");
-            Console.WriteLine("Нажмите любую кнопку чтобы продолжить\n");
-            Console.ReadKey();
+            Console.WriteLine("Здравствуйте!!! Вас приветствует программа сравнения возраста");            
 
             Console.WriteLine("введите данные первого человека\n");
             string userName1 = AskName();

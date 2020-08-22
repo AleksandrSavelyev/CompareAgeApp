@@ -1,0 +1,13 @@
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\bin\Debug\netcoreapp3.1\CompareAgeApp.exe
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\bin\Debug\netcoreapp3.1\CompareAgeApp.deps.json
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\bin\Debug\netcoreapp3.1\CompareAgeApp.runtimeconfig.json
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\bin\Debug\netcoreapp3.1\CompareAgeApp.runtimeconfig.dev.json
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\bin\Debug\netcoreapp3.1\CompareAgeApp.dll
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\bin\Debug\netcoreapp3.1\CompareAgeApp.pdb
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\obj\Debug\netcoreapp3.1\CompareAgeApp.csprojAssemblyReference.cache
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\obj\Debug\netcoreapp3.1\CompareAgeApp.AssemblyInfoInputs.cache
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\obj\Debug\netcoreapp3.1\CompareAgeApp.AssemblyInfo.cs
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\obj\Debug\netcoreapp3.1\CompareAgeApp.csproj.CoreCompileInputs.cache
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\obj\Debug\netcoreapp3.1\CompareAgeApp.dll
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\obj\Debug\netcoreapp3.1\CompareAgeApp.pdb
+D:\HomeWork(VS)\CompareAgeApp\CompareAgeApp\obj\Debug\netcoreapp3.1\CompareAgeApp.genruntimeconfig.cache
